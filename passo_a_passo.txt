@@ -1,0 +1,29 @@
+Passo a passo para criar um bot de postagem no Facebook
+
+1 - Entrar no site facebook.com
+
+2 - Encontrar o campo onde digita o e-mail para o login
+
+3 - Digitar o e-mail
+
+4 - Encontrar o campo onde digita a senha para o login
+
+5 - Digitar a senha
+
+6 - Encontrar o botão "Entrar"
+
+7 - Clicar no botão "Entrar"
+
+8 - Encontrar o botão com a logo do Facebook
+
+9 - Clicar no botão com a logo do facebook
+
+10 - Encontrar o campo "No que você está pensando ..."
+
+11 - Clicar no campo "No que você está pensando ..."
+
+12 - Digitar no campo "Digite o que você está pensando"
+
+13 - Encontrar o botão "Publicar"
+
+14 - Clicar no botão "Publicar"
